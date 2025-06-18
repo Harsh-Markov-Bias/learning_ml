@@ -1,7 +1,9 @@
-##Learning OOP in Python — a personal journey
+## Learning Journey — From Python Fundamentals to Machine Learning Projects
 
-This repo is where I’m tracking my progress as I brush up on Object-Oriented Programming (OOP) in Python. The idea is to take a hands-on, systematic approach — starting from the basics and gradually moving toward more advanced patterns and practical applications.
+This is my personal learning repo where I’m systematically improving my understanding of core software engineering concepts and modern machine learning.
 
-Rather than just going through tutorials or notes, I’ll be writing small projects and examples that reflect each concept I’m learning. It’s mainly for my own learning, but if you’re exploring Python OOP yourself, you might find some useful ideas or inspiration here.
+My goal is to build a solid foundation — not just in ML algorithms — but in the practical skills needed to create real-world ML systems: writing clean, maintainable code (with strong OOP fundamentals), understanding design patterns and architecture, getting comfortable with Python frameworks, learning how to structure backend services, and finally bringing it all together in complete ML-driven projects.
 
-Expect this repo to grow over time — it’ll evolve as I dive into things like inheritance, composition, mixins, design patterns, and eventually how these concepts apply in frameworks like Flask or FastAPI.
+The repo is not structured as a course or tutorial. It’s simply a way for me to track my progress and organise my learnings — from small examples to larger projects — in a way that I (and maybe others) can refer back to.
+
+If you happen to stumble upon this repo while on a similar path, you’re welcome to explore and use whatever parts you find helpful.

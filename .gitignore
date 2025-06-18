@@ -135,6 +135,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+venv_learningML/
+
 
 # Spyder project settings
 .spyderproject
