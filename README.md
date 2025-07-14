@@ -7,3 +7,5 @@ My goal is to build a solid foundation — not just in ML algorithms — but in 
 The repo is not structured as a course or tutorial. It’s simply a way for me to track my progress and organise my learnings — from small examples to larger projects — in a way that I (and maybe others) can refer back to.
 
 If you happen to stumble upon this repo while on a similar path, you’re welcome to explore and use whatever parts you find helpful.
+
+Olympics Analysis -> https://learning-ml-analysis.onrender.com/
