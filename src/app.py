@@ -7,8 +7,8 @@ import seaborn as sns
 from plotly.figure_factory import create_distplot
 
 
-df = pd.read_csv('/Users/harshpratapsingh/Documents/ML-Projects/learning_ml/notebook/data/all_about_olypics/athlete_events.csv')
-region_df = pd.read_csv('/Users/harshpratapsingh/Documents/ML-Projects/learning_ml/notebook/data/all_about_olypics/noc_regions.csv')
+df = pd.read_csv('notebook/data/all_about_olypics/athlete_events.csv')
+region_df = pd.read_csv('notebook/data/all_about_olypics/noc_regions.csv')
 
 df = preprocessor.preprocess(df, region_df)
 
